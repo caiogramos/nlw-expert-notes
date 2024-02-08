@@ -25,9 +25,9 @@ NLW Expert Notes is an application for creating and organizing your notes effici
 To get started with the project, follow these steps:
 
 1. **Clone the Repository:**
-   ```
-   git clone https://github.com/caiogramos/nlw-expert-notes.git
-   ```
+  ```
+  git clone https://github.com/caiogramos/nlw-expert-notes.git
+  ```
 
 2. **Navigate to the Project Directory:**
   ```
@@ -49,9 +49,15 @@ Once the installation is complete, you can start the development server:
 This will start the development server, and you can access the application at http://localhost:5173 in your browser.
 
 ## Scripts
+```
 `npm run dev`: Start the development server.
+```
+```
 `npm run build`: Build the project for production.
+```
+```
 `npm run preview`: Preview the production build locally.
+```
 
 ## Dependencies
 - @radix-ui/react-dialog: ^1.0.5
