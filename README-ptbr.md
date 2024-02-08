@@ -26,9 +26,9 @@ NLW Expert Notes é uma aplicação para criar e organizar suas notas de maneira
 Para começar com o projeto, siga estes passos:
 
 1. **Clone o Repositório:**
-   ```
-   git clone https://github.com/caiogramos/nlw-expert-notes.git
-   ```
+  ```
+  git clone https://github.com/caiogramos/nlw-expert-notes.git
+  ```
 
 2. **Navegue até o Diretório do Projeto:**
   ```
