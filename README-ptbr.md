@@ -50,15 +50,13 @@ Uma vez concluída a instalação, você pode iniciar o servidor de desenvolvime
 Isso iniciará o servidor de desenvolvimento, e você poderá acessar a aplicação em http://localhost:5173 no seu navegador.
 
 ## Scripts
-```
+
 `npm run dev`: Inicia o servidor de desenvolvimento.
-```
-```
+
 `npm run build`: Compila o projeto para produção.
-```
-```
+
 `npm run preview`: Pré-visualiza a compilação de produção localmente.
-```
+
 
 ## Dependências
 - @radix-ui/react-dialog: ^1.0.5

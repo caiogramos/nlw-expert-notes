@@ -20,7 +20,7 @@ Welcome to NLW Expert Notes, a project developed during the Next Level Week even
 
 NLW Expert Notes is an application for creating and organizing your notes efficiently. It leverages modern technologies to provide an enhanced user experience.
 
-## Instalation
+## Install  ation
 
 To get started with the project, follow these steps:
 
@@ -49,15 +49,13 @@ Once the installation is complete, you can start the development server:
 This will start the development server, and you can access the application at http://localhost:5173 in your browser.
 
 ## Scripts
-```
+
 `npm run dev`: Start the development server.
-```
-```
+
 `npm run build`: Build the project for production.
-```
-```
+
 `npm run preview`: Preview the production build locally.
-```
+
 
 ## Dependencies
 - @radix-ui/react-dialog: ^1.0.5
